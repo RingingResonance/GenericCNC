@@ -5,6 +5,8 @@
 #: Action commands respond with a "c", they will be listed here with a "@".
 #: All commands are case sensitive.
 
+Communication is on UART 1, 8n2, 9600 Baud.
+
 Tool Rotation Timeout is about 5 - 6 seconds. If the tool Rotation input does 
 not get a pulse within 5 - 6 seconds of an action command AND the Tool Power is
 not 0, the tool output will be shut of and the tool status light will blink.
