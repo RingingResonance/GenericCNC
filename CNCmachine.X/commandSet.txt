@@ -59,7 +59,7 @@ Action Commands.
 	Default is "n".
 
 #@: "P" Tool Power. PWM percentage of the tool control output. (0 - 99)
-	Default is "99"
+	Default is "0"
 
 ###################################
 Head Movement.
