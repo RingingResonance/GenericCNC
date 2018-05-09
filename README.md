@@ -2,6 +2,8 @@
 Simple Generic CNC control firmware for dsPIC30F3011 Microcontrollers.
 Communication is on UART 1, 8n2, 9600 Baud.
 
+Schemadic is in PDF format, "CNC.pdf"
+
 ###############################################################################
 ###############################################################################
 
